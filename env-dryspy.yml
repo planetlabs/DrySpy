@@ -1,0 +1,15 @@
+name: dryspy
+
+dependencies:
+  - rasterio
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - scikit-image
+  - pip
+  - pip:
+      - rich_click
+      - diptest
+      - google-cloud
+      - google-cloud-storage
